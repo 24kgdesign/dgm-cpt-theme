@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build artifacts
+*.map
